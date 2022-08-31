@@ -1,1 +1,4 @@
-<img align="canter" src="https://github-readme-stats.vercel.app/api?username=reggi49&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<div align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=reggi49&&show_icons=true&theme=github_dark&include_all_commits=true" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reggi49&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
