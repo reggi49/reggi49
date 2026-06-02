@@ -1,4 +1,4 @@
 <div align="center">
-reggi49.github.io
+reggi49.github.io ||
 kodeabc.xyz
 </div>
